@@ -1,7 +1,5 @@
 # Multi-class Yolov5 + Deep Sort with PyTorch
 
-[![HitCount](http://hits.dwyl.com/{mikel-brostrom}/{Yolov5_DeepSort_Pytorch}.svg)](http://hits.dwyl.com/{mikel-brostrom}/{Yolov5_DeepSort_Pytorch})
-
 
 ![](Town.gif)
 
@@ -29,6 +27,10 @@ Alternatively, you can build a docker image by Dockerfile supplied here if you u
 - Yolov5 pedestrian weight from https://drive.google.com/file/d/1BsWywxaQtuz2Tq3i0M3qFsscZC6a18u8/view?usp=sharing. Place the downlaoded `.pt` file under `yolov5/weights/`
 - Yolov5 nba weight from https://drive.google.com/file/d/12qDKovSi9PRdY-77zFJx_7gi41zE3BJY/view?usp=sharing. Place the downlaoded `.pt` file under `yolov5/weights/`. It was trained by a very small dataset.
 - Deep sort weights from https://drive.google.com/file/d/18qIFaoPWu4OFiH1kO2JiJ2Lq2D3lhXYY/view?usp=sharing. Place ckpt.t7 file under`deep_sort/deep/checkpoint/`
+
+## Download Sample Video
+
+- Sample nba video from https://drive.google.com/file/d/19ESDqwvO5LRQQ5nQqgjxwsD85eFsW0pp/view?usp=sharing
 
 ## Tracking
 
