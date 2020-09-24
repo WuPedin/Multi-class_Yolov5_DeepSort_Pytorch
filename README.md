@@ -1,7 +1,7 @@
 # Multi-class Yolov5 + Deep Sort with PyTorch
 
 
-![](Town.gif)
+![](nba_inf.gif)
 
 ## Introduction
 
