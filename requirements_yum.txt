@@ -1,0 +1,9 @@
+vim -y
+epel-release -y
+python36 -y
+python3-devel -y
+libXext -y
+libSM -y
+libXrender -y
+libXdmc -y
+mesa-libGL.x86_64 -y
